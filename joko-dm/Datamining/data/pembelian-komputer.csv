@@ -1,0 +1,15 @@
+usia,pendapatan,pelajar,kredit,kelas
+muda, tinggi, tidak, macet,tidak beli
+muda, tinggi, tidak, lancar,tidak beli
+tengah baya, tinggi, tidak, macet,beli
+tua, sedang, tidak, macet,beli
+tua, rendah, ya, macet,beli
+tua, rendah, ya, lancar,tidak beli
+tengah baya, rendah, ya, lancar,beli
+muda, sedang, tidak, macet,tidak beli
+muda, rendah, tidak, macet,beli
+tua, sedang, ya, macet,beli
+muda, sedang, ya, lancar,beli
+tengah baya, sedang, tidak, lancar,beli
+tengah baya, tinggi, ya, macet,beli
+tua, sedang, tidak, lancar,tidak beli

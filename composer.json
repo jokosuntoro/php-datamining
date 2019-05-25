@@ -1,0 +1,17 @@
+{
+    "name": "joko/phpdm",
+    "description": "Belajar data mining dengan bahasa pemrograman PHP",
+    "license": "Joko Suntoro & Intelligent System Research Group",
+    "authors": [
+        {
+            "name": "Joko Suntoro",
+            "email": "jokosuntoro@usm.ac.id"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"psr-4": {
+			"jokodm\\": "joko-dm/"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+Outlook,Temperatur,Kelembaban,Angin,Play
+cerah,panas,tinggi,tidak,Tidak Main
+cerah,panas,tinggi,ya,Tidak Main
+berawan,panas,tinggi,tidak,Main
+hujan,sejuk,tinggi,tidak,Main
+hujan,dingin,normal,tidak,Main
+hujan,dingin,normal,ya,Tidak Main
+berawan,dingin,normal,ya,Main
+cerah,sejuk,tinggi,tidak,Tidak Main
+cerah,dingin,normal,tidak,Main
+hujan,sejuk,normal,tidak,Main
+cerah,sejuk,normal,ya,Main
+berawan,sejuk,tinggi,ya,Main
+berawan,panas,normal,tidak,Main
+hujan,sejuk,tinggi,ya,Tidak Main
